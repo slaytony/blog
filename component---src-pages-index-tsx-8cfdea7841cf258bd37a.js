@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkslaytony=self.webpackChunkslaytony||[]).push([[691],{7200:function(n,t,e){e.r(t),e.d(t,{Head:function(){return a},default:function(){return u}});var l=e(7294);function u(){return l.createElement("h1",null,"slaytony")}const a=()=>l.createElement("title",null,"Slaytony | BLOG")}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-8cfdea7841cf258bd37a.js.map
